@@ -350,7 +350,9 @@ Khi thoang thoảng ngửi có hương hoa hồng, chàng mới biết là đã 
 
 -- Thưa ông, tôi không ngại gì đêm lạnh nhưng tôi sợ...
 
-Sư cô ngừng một lúc rồi nói tiếp: - Tôi sợ... ông không thoát được.
+Sư cô ngừng một lúc rồi nói tiếp:
+
+--  Tôi sợ... ông không thoát được.
 
 Dũng chép miệng:
 
@@ -815,7 +817,9 @@ Khi đi trúc chửa mọc măng,
 
 Khi về trúc đã cao bằng ngọn tre.
 
-Một ngày kia tình cờ có người nhân tình đưa nàng đi chơi ôtô về qua làng; Lạch xin phép bạn về thăm nhà và dặn bạn khi quay về đón ở quán nước đầu xóm. Bà Xã thấy con về, ôm mặt khóc: - Sao mày không chết đường chết chợ ở đâu cho rảnh, còn bén mảng về đây làm gì cho tao thêm nhục.
+Một ngày kia tình cờ có người nhân tình đưa nàng đi chơi ôtô về qua làng; Lạch xin phép bạn về thăm nhà và dặn bạn khi quay về đón ở quán nước đầu xóm. Bà Xã thấy con về, ôm mặt khóc:
+
+--  Sao mày không chết đường chết chợ ở đâu cho rảnh, còn bén mảng về đây làm gì cho tao thêm nhục.
 
 Thấy Lạch, bà lại nghĩ đến Bìm và tự an ủi rằng hỏng em, nhưng được chị. Lạch nói:
 
@@ -835,7 +839,9 @@ Bìm hỏi gọn một câu lãnh đạm:
 
 -- Cô về chơi.
 
-Bìm ngượng quá, cúi mặt, bới tóc mẹ chồng một lúc rồi rứt trứng chấy đưa lên miệng cắn: - Gớm! Đầu bu lắm chấy quá. Ngẩu đương ngồi ở trước hiên nghêu ngao đọc "đạo thánh hiền là rộng,... đạo thánh hiền là rộng", thấy người lạ mặc áo đẹp, vội chạy ra, rồi sợ hãi đứng ở xa, bên cạnh một đàn lợn con thả rong vừa mút ngón tay, vừa trố mắt nhìn. Lạch trông thấy Ngẩu, mỉm cười, nhắm một bên mắt lại, nháy mắt chế giễu quen như độ còn ở nhà. Nàng toan cất tiếng cười, nhưng phải cố giữ lại.
+Bìm ngượng quá, cúi mặt, bới tóc mẹ chồng một lúc rồi rứt trứng chấy đưa lên miệng cắn:
+
+--  Gớm! Đầu bu lắm chấy quá. Ngẩu đương ngồi ở trước hiên nghêu ngao đọc "đạo thánh hiền là rộng,... đạo thánh hiền là rộng", thấy người lạ mặc áo đẹp, vội chạy ra, rồi sợ hãi đứng ở xa, bên cạnh một đàn lợn con thả rong vừa mút ngón tay, vừa trố mắt nhìn. Lạch trông thấy Ngẩu, mỉm cười, nhắm một bên mắt lại, nháy mắt chế giễu quen như độ còn ở nhà. Nàng toan cất tiếng cười, nhưng phải cố giữ lại.
 
 Lâu không thấy bà Lý và chị mời vào trong nhà, Lạch đứng lên cáo từ.
 
@@ -854,7 +860,9 @@ Nhưng đời một người bán thân bằng số tiền mấy chục bạc đ
 
 -- Nhưng đó là chuyện thật?
 
--- Không hẳn là chuyện thật. Song như Lạch rất ít mà như Bìm, ở xã hội quê ta thiếu gì. Tôi kể anh nghe câu chuyện này vì tôi vừa thấy một cậu bé toét mắt, trọc đầu, ước độ mười tuổi mà có vợ hơn ba năm, và mới đây vào tiệm khiêu vũ ở Hải Phòng tôi đã được thấy một cô cắt cỏ lẳng lơ ôm một bạn gái nhảy lượn dưới ánh đèn như hai con thiêu thân. Cô cắt cỏ - tôi tạm gọi là cô Lạch - có hai con mắt đẹp nhưng nhiễm đầy vẻ buồn ảo não hình như đương nhớ tới quê hương, mong mỏi một cảnh đời khác mà không sao được. Tôi tưởng nghe thấy tiếng cô ta bảo tôi, đau đớn tuyệt vọng: - Em thế này để khỏi phải sống như chị em!
+-- Không hẳn là chuyện thật. Song như Lạch rất ít mà như Bìm, ở xã hội quê ta thiếu gì. Tôi kể anh nghe câu chuyện này vì tôi vừa thấy một cậu bé toét mắt, trọc đầu, ước độ mười tuổi mà có vợ hơn ba năm, và mới đây vào tiệm khiêu vũ ở Hải Phòng tôi đã được thấy một cô cắt cỏ lẳng lơ ôm một bạn gái nhảy lượn dưới ánh đèn như hai con thiêu thân. Cô cắt cỏ - tôi tạm gọi là cô Lạch - có hai con mắt đẹp nhưng nhiễm đầy vẻ buồn ảo não hình như đương nhớ tới quê hương, mong mỏi một cảnh đời khác mà không sao được. Tôi tưởng nghe thấy tiếng cô ta bảo tôi, đau đớn tuyệt vọng:
+
+--  Em thế này để khỏi phải sống như chị em!
 
 # Cái tẩy
 
